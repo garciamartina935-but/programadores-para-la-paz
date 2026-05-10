@@ -1,0 +1,12 @@
+Durante la actividad use los siguientes comandos:
+cd para saber donde estaba la carpeta
+git remote -v para saber si esta conectada al repositorio
+git status para asegurar que la carpeta este dentro del repositorio
+mkdir semana_2 para crear la carpeta 
+cd semana_2 para entrar a la carpeta 
+type nul > nombre del archivo.txt no pude usar touch, así que busque otra opción, esta la use para crear los archivos de la carpeta
+dir para ver si se crearon las carpetas 
+
+
+
+
