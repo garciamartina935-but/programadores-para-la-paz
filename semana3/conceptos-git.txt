@@ -1,0 +1,3 @@
+Repositorio: Un repositorio es un espacio en el cual se almacenan, organizan archivos y sus respectivas versiones, también permite colaborar y mantener un historial de modificaciones.
+Commit: Un commit es un comando que permite registrar los cambios realizados en los archivos de un repositorio por medio de comentarios.
+Push: Un push es un comando que permite realizar el envió del commit desde el repositorio local al repositorio remoto.
